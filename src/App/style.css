@@ -1,0 +1,957 @@
+
+
+
+/* 
+1236
+*/
+
+@media screen and (max-width: 1688px) {
+  
+  
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  
+    margin-top: 0% !important;
+    width: 102.1% !important;
+    margin-left: -1% !important;
+    margin-top: -15% !important;
+    padding-top: 0% !important;
+  }
+
+
+
+
+.phone-vid {
+  width: 42% !important;
+  margin-top: 45% !important;
+  margin-left: 1% !important;
+}
+
+.cta-button:hover {
+  transition: 500ms !important;
+  box-shadow: 0px 0px 0px 0 rgba(237, 25, 142,1) !important;
+}
+
+
+
+}
+
+@media screen and (max-width: 1510px) {
+  
+  
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  
+    margin-top: 0% !important;
+    width: 102.1% !important;
+    margin-left: -1% !important;
+    margin-top: -15% !important;
+    padding-top: 0% !important;
+  }
+
+
+
+
+  .phone-vid {
+    width: 42% !important;
+    margin-top: 35% !important;
+    margin-left: 1% !important;
+  }
+
+
+
+}
+
+
+@media screen and (max-width: 1334px) {
+
+  .logo {
+    width: 25% !important;
+  }
+  .dating-3-copy {
+    font-size: 100px !important;
+    margin-top: 10% !important;
+    margin-bottom: 5% !important;
+  }
+
+
+  .cta-button {
+    font-size: 21px !important;
+    box-shadow: 6px 6px 0px 0 rgba(237, 25, 142,1);
+    width: 85% !important;
+  }
+  .cta-button:hover {
+    transition: 500ms !important;
+    box-shadow: 0px 0px 0px 0 rgba(237, 25, 142,1) !important;
+  }
+  
+  .apple-logo {
+    width: 7% !important;
+  }
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 102.3% !important;
+    margin-left: -1% !important;
+    margin-top: -25% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+  .phone-vid {
+    width: 42% !important;
+    margin-top: 55% !important;
+    margin-left: 1% !important;
+  }
+
+
+
+}
+
+
+@media screen and (max-width: 1236px) {
+  
+  
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 102.3% !important;
+    margin-left: -1% !important;
+    margin-top: -35% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+  .phone-vid {
+    width: 42% !important;
+    margin-top: 60% !important;
+    margin-left: 1% !important;
+  }
+  
+
+}
+
+@media screen and (max-width: 1000px) {
+
+  
+  .logo {
+    width: 27% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 100px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 12% !important;
+    margin-bottom: 6% !important;
+    color:rgb(45, 28, 52);
+  }
+
+
+  .copy-cta-div {
+    margin-bottom: 9% !important;
+    margin-right: 0% !important;
+
+  }
+
+  .cta-button-link {
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+
+  }
+  .cta-button {
+    font-size: 21px !important;
+    width: 85% !important;
+    margin-right: 0% !important;
+  }
+  .cta-button:hover {
+    transition: 500ms !important;
+    box-shadow: 0px 0px 0px 0 rgba(237, 25, 142,1) !important;
+  }
+  
+  .apple-logo {
+    width: 7% !important;
+  }
+  
+  
+  
+  .phone-vid {
+    width: 45% !important;
+    margin-top: 40% !important;
+  }
+  
+
+
+  .bottom-header {
+    font-size: 55px;
+    margin-bottom: 2%;
+    margin-top: 10% !important;
+  }
+  .bottom-copy {
+    font-size: 20px;
+    width: 78% !important;
+    margin-bottom: 5%;
+  }
+  
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 102.1% !important;
+    margin-left: -1% !important;
+    margin-top: -30% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+  
+}
+
+@media screen and (max-width: 800px) {
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 102.4% !important;
+    margin-left: -1.1% !important;
+    margin-top: -30% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+  .logo {
+    width: 39% !important;
+  }
+
+
+
+  .social-button-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    width: 7%;
+  }
+  .tiktok-img {
+    width: 60% !important;
+    transition: 500ms;
+  
+  }
+  .insta-img {
+    width: 60% !important;
+    transition: 500ms;
+  
+  }
+  .linkedin-img {
+    width: 60% !important;  
+    transition: 500ms;
+  }
+  
+  .social-links-div {
+    margin-top: 1%;
+    margin-bottom: 10% !important;
+  }
+
+
+  .bottom-copy {
+    margin-bottom: 11% !important;
+  }
+
+  .qr-code-img {
+    width: 27% !important;
+  }
+  .qr-code-copy {
+    font-size: 19px !important;
+  }
+  
+} 
+
+@media screen and (max-width: 700px) {
+
+
+
+  .logo {
+    width: 42% !important;
+  }
+  
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 102.6% !important;
+    margin-left: -1.3% !important;
+    margin-bottom: -2% !important;
+    margin-top: -60% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+  
+
+  .phone-vid {
+    width: 45% !important;
+    margin-top: 70% !important;
+    margin-left: 1% !important;
+  }
+  
+
+
+  .copy-cta-div {
+    margin-bottom: 9% !important;
+    margin-right: 0% !important;
+
+  }
+  .cta-button-link {
+    margin-left: 0% !important;
+    margin-right: 0% !important;    
+    margin-top: 1% !important;
+  }
+  .cta-button {
+    font-size: 19px !important;
+    width: 80% !important;
+    margin-right: 0% !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+  
+  .cta-button:hover {
+    transition: 500ms !important;
+    box-shadow: 0px 0px 0px 0 rgba(237, 25, 142,1) !important;
+  }
+  
+  .apple-logo {
+    width: 7% !important;
+  }
+  
+
+
+
+  .bottom-header {
+    font-size: 50px !important;
+    margin-bottom: 2%;
+  }
+  .bottom-copy {
+    font-size: 19px !important;
+    width: 85% !important;
+    margin-bottom: 10% !important;
+  }
+
+
+  .social-button-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    width: 7%;
+  }
+  .tiktok-img {
+    width: 70% !important;
+    transition: 500ms;
+  
+  }
+  .insta-img {
+    width: 70% !important;
+    transition: 500ms;
+  
+  }
+  .linkedin-img {
+    width: 70% !important;  
+    transition: 500ms;
+  }
+  
+  .social-links-div {
+    margin-top: 1%;
+    margin-bottom: 10% !important;
+  }
+
+  .bottom-header {
+    font-size: 55px;
+    margin-bottom: 2%;
+    margin-top: 20% !important;
+  }
+
+}  
+@media screen and (max-width: 600px) {
+
+
+ 
+  .logo {
+    width: 44% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 85px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 12% !important;
+    margin-bottom: 9% !important;
+    color:rgb(45, 28, 52);
+  }
+
+
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 103.1% !important;
+    margin-left: -1.5% !important;
+    margin-top: -30% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+  .phone-vid {
+    width: 60% !important;
+    margin-top: 50% !important;
+    margin-left: 1% !important;
+  }
+
+
+  .bottom-header {
+    font-size: 45px !important;
+    margin-bottom: 2%;
+    margin-top: 30% !important;
+  }
+  .bottom-copy {
+    font-size: 18px !important;
+    width: 90% !important;
+    margin-bottom: 11% !important;
+    line-height: 25px !important;
+
+  }
+
+
+  .qr-code-img {
+    width: 32% !important;
+  }
+  .qr-code-copy {
+    font-size: 19px !important;
+  }
+
+  .social-links-div {
+    margin-top: 1%;
+    margin-bottom: 20% !important;
+  }
+  
+  
+} 
+
+@media screen and (max-width: 500px) {
+
+
+
+  .logo {
+    width: 50% !important;
+  }
+  
+    
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 103.5% !important;
+    margin-left: -1.8% !important;
+    margin-bottom: -2% !important;
+    margin-top: -60% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+  .phone-vid {
+    width: 65% !important;
+    margin-top: 80% !important;
+    margin-left: 1% !important;
+  }
+
+  .bottom-header {
+    font-size: 42px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 18px !important;
+    width: 90% !important;
+    margin-bottom: 12% !important;
+  }
+
+  .qr-code-img {
+    width: 37% !important;
+    margin-top: 4%;
+  }
+  .qr-code-copy {
+    font-size: 19px !important;
+  }
+
+
+
+  .social-button-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    width: 15% !important;
+  }
+  .tiktok-img {
+    width: 40% !important;
+    transition: 500ms;
+  
+  }
+  .insta-img {
+    width: 40% !important;
+    transition: 500ms;
+  
+  }
+  .linkedin-img {
+    width: 40% !important;  
+    transition: 500ms;
+  }
+  
+  .social-links-div {
+    margin-top: 1%;
+    margin-bottom: 20% !important;
+  }
+
+  
+  
+} 
+
+
+@media screen and (max-width: 470px) {
+  .logo {
+    width: 45% !important;
+    margin-top: 4% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 75px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 17% !important;
+    margin-bottom: 9% !important;
+    color:rgb(45, 28, 52);
+  }
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 104% !important;
+    margin-left: -2% !important;
+    margin-bottom: -2% !important;
+    margin-top: -60% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+
+  .phone-vid {
+    width: 65% !important;
+    margin-top: 80% !important;
+    margin-left: 1% !important;
+  }
+  
+  .copy-cta-div {
+    margin-bottom: 9% !important;
+    margin-right: 0% !important;
+
+  }
+  .cta-button-link {
+    margin-left: 0% !important;
+    margin-right: 0% !important;    
+    margin-top: 1% !important;
+  }
+  .cta-button {
+    font-size: 19px !important;
+    width: 80% !important;
+    margin-right: 0% !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+  }
+  .cta-button:hover {
+    transition: 500ms !important;
+    box-shadow: 0px 0px 0px 0 rgba(237, 25, 142,1) !important;
+  }
+  
+  
+  .apple-logo {
+    width: 7% !important;
+  }
+
+
+  .bottom-header {
+    font-size: 38px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 18px !important;
+    width: 95% !important;
+    margin-bottom: 13% !important;
+  }
+
+
+  .legal-copy-div {
+    margin-top: 50% !important;
+  }
+
+
+  
+}  
+
+
+@media screen and (max-width: 435px) {
+  /* mobile */
+
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 104% !important;
+    margin-left: -2% !important;
+    margin-bottom: -3% !important;
+    margin-top: -80% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+
+
+  .phone-vid {
+    width: 65% !important;
+    margin-top: 90% !important;
+    margin-left: 1% !important;
+  }
+  
+
+  .logo {
+    width: 45% !important;
+    margin-top: 4% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 70px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 17% !important;
+    margin-bottom: 11% !important;
+    color:rgb(45, 28, 52);
+  }
+
+  .bottom-header {
+    font-size: 35px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 16px !important;
+    width: 95% !important;
+    margin-bottom: 14% !important;
+  }
+
+
+  .qr-code-img {
+    width: 40% !important;
+  }
+  .qr-code-copy {
+    font-size: 18px !important;
+  }
+
+
+
+  
+
+}
+
+@media screen and (max-width: 400px) {
+  /* mobile */
+  .logo {
+    width: 55% !important;
+    margin-top: 5% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 65px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 20% !important;
+    margin-bottom: 11% !important;
+    color:rgb(45, 28, 52);
+  }
+
+
+  .secondary-container-color-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;  /* background-image: url(https://i.imgur.com/6xQtNt4.png); */
+    margin-top: 0% !important;
+    width: 105% !important;
+    margin-left: -2.5% !important;
+    margin-top: -70% !important;
+    /* background-image: url(../assets/wavy-color-background.png); */
+    padding-top: 0% !important;
+  }
+
+  .bottom-header {
+    font-size: 32px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 16px !important;
+    width: 95% !important;
+    margin-bottom: 15% !important;
+  }
+
+
+  .social-button-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+    width: 15% !important;
+  }
+  .tiktok-img {
+    width: 45% !important;
+    transition: 500ms;
+  
+  }
+  .insta-img {
+    width: 45% !important;
+    transition: 500ms;
+  
+  }
+  .linkedin-img {
+    width: 45% !important;  
+    transition: 500ms;
+  }
+  
+  .social-links-div {
+    margin-top: 1%;
+    margin-bottom: 10% !important;
+  }
+
+
+  
+}
+
+@media screen and (max-width: 360px) {
+  /* mobile */
+
+  .logo {
+    width: 60% !important;
+    margin-top: 5% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 63px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 20% !important;
+    margin-bottom: 11% !important;
+    color:rgb(45, 28, 52);
+  }
+
+
+  .bottom-header {
+    font-size: 30px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 15px !important;
+    width: 95% !important;
+    margin-bottom: 15% !important;
+  }
+
+
+
+
+
+
+
+
+  .legal-copy-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin-top: 15%;
+  }
+  
+  .legal-links-div {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  
+  .legal-copy-links {
+    text-decoration: none;
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 14px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .legal-copy-line {
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 15px;
+  }
+  
+  .legal-copy-2 {
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 14px !important;
+    margin-top: 0;
+    margin-bottom: 3%;
+  }
+
+
+}
+
+@media screen and (max-width: 330px) {
+  /* mobile */
+
+  .logo {
+    width: 60% !important;
+    margin-top: 5% !important;
+  }
+  
+    
+  .dating-3-copy {
+    font-size: 57px !important;
+    font-family: "Rubik-Medium";
+    margin-top: 20% !important;
+    margin-bottom: 11% !important;
+    color:rgb(45, 28, 52);
+  }
+
+  .bottom-header {
+    font-size: 28px !important;
+    margin-bottom: 2%;
+    margin-top: 10%;
+  }
+  .bottom-copy {
+    font-size: 15px !important;
+    width: 95% !important;
+    margin-bottom: 15% !important;
+  }
+
+
+
+  .legal-copy-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin-top: 15%;
+  }
+  
+  .legal-links-div {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    margin-bottom: 0px;
+  }
+  
+  .legal-copy-links {
+    text-decoration: none;
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 13px !important;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .legal-copy-line {
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 15px;
+  }
+  
+  .legal-copy-2 {
+    font-family: "Averta-regular";
+    /* color:rgb(45, 28, 52); */
+    color: #FAFAFB;
+    font-size: 13px !important;
+    margin-top: 0;
+    margin-bottom: 3%;
+  }
+
+}
