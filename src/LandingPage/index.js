@@ -3,7 +3,7 @@ import './style.css'
 import hiyoumeLogoText from '../assets/logo-text.png'
 import appleLogo from '../assets/apple.png'
 // import hymRoseAsset from '../assets/hym-rose-asset.png'
-import standInPhone from '../assets/stand-in-phone.png'
+// import standInPhone from '../assets/stand-in-phone.png'
 import wavyColorBackground from '../assets/wavy-color-background-purp.png'
 import qrCode from '../assets/qr-code-4.png'
 import tiktok from '../assets/tiktok.png'
@@ -99,7 +99,7 @@ class LandingPage extends Component {
           <div className='legal-copy-div'>
             <div className='legal-links-div'>
               <a
-                href='#'
+                href='https://www.tiktok.com/@hiyoumeapp'
                 target='_blank'
                 className='legal-copy-links'
                 rel='noopener noreferrer'
@@ -108,7 +108,7 @@ class LandingPage extends Component {
               </a> 
               <p className='legal-copy-line'> | </p>
               <a
-              href='#'
+              href='https://www.tiktok.com/@hiyoumeapp'
               target='_blank'
               className='legal-copy-links'
               rel='noopener noreferrer'
